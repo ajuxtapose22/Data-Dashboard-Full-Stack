@@ -1,0 +1,155 @@
+{
+    "categories": {
+      "flower": {
+        "subcategories": ["Shop All", "Small Buds", "Infused Bud", "Pre-Ground"],
+        "products": [
+          {
+            "id": "F001",
+            "name": "Purple Mountain Haze",
+            "brand": "Skyway",
+            "subcategory": "Small Buds",
+            "weight": "1/8oz",
+            "strain": "Hybrid",
+            "price": 35.99,
+            "thc_percentage": 22.5,
+            "description": "Small batch, hand-trimmed premium flower"
+          },
+          {
+            "id": "F002",
+            "name": "Sunset Gelato",
+            "brand": "Nature's Canvas",
+            "subcategory": "Shop All",
+            "weight": "1/4oz",
+            "strain": "Indica",
+            "price": 65.99,
+            "thc_percentage": 24.8,
+            "description": "Premium indoor-grown flower"
+          },
+          {
+            "id": "F003",
+            "name": "Citrus Dreams",
+            "brand": "GreenLeaf Collective",
+            "subcategory": "Infused Bud",
+            "weight": "1g",
+            "strain": "Sativa",
+            "price": 18.99,
+            "thc_percentage": 26.5,
+            "description": "Kief-infused premium flower"
+          }
+        ]
+      },
+      "vapes": {
+        "subcategories": ["Shop All", "Cartridges", "Disposables", "Pods"],
+        "products": [
+          {
+            "id": "V001",
+            "name": "Berry Blast Pod",
+            "brand": "VaporCraft",
+            "subcategory": "Pods",
+            "weight": ".5g",
+            "strain": "Hybrid",
+            "price": 45.99,
+            "thc_percentage": 85.5,
+            "description": "Compatible with standard pod systems"
+          },
+          {
+            "id": "V002",
+            "name": "Midnight Express",
+            "brand": "CloudNine",
+            "subcategory": "Disposables",
+            "weight": "1g",
+            "strain": "Indica",
+            "price": 55.99,
+            "thc_percentage": 88.2,
+            "description": "All-in-one disposable vape system"
+          },
+          {
+            "id": "V003",
+            "name": "Morning Glory",
+            "brand": "PureVape",
+            "subcategory": "Cartridges",
+            "weight": "2g",
+            "strain": "Sativa",
+            "price": 75.99,
+            "thc_percentage": 90.1,
+            "description": "510-thread compatible cartridge"
+          }
+        ]
+      },
+      "edibles": {
+        "subcategories": ["Shop All", "Gummies", "Chocolates", "Savory Snacks", "Capsules Tablets", "Hard Candy", "Drinks", "Dissolvables", "Baked Goods", "Suckers"],
+        "products": [
+          {
+            "id": "E001",
+            "name": "Cosmic Gummy Bears",
+            "brand": "SweetDreams",
+            "subcategory": "Gummies",
+            "weight": "100mg",
+            "strain": "Hybrid",
+            "price": 22.99,
+            "pieces": 10,
+            "description": "Mixed fruit flavors, 10mg per piece"
+          },
+          {
+            "id": "E002",
+            "name": "Dark Forest Bar",
+            "brand": "CannaChoc",
+            "subcategory": "Chocolates",
+            "weight": "50mg",
+            "strain": "Indica",
+            "price": 18.99,
+            "pieces": 5,
+            "description": "Dark chocolate with sea salt"
+          },
+          {
+            "id": "E003",
+            "name": "Fizzy Lemonade",
+            "brand": "BubbleBuzz",
+            "subcategory": "Drinks",
+            "weight": "10mg",
+            "strain": "Sativa",
+            "price": 8.99,
+            "description": "Sparkling cannabis-infused beverage"
+          }
+        ]
+      },
+      "concentrates": {
+        "subcategories": ["Shop All", "Budder", "Crumble", "Rosin", "Badder", "Shatter", "Sugar", "Live Resin", "Kief"],
+        "products": [
+          {
+            "id": "C001",
+            "name": "Golden Crumble",
+            "brand": "ExtractLab",
+            "subcategory": "Crumble",
+            "weight": "100mg",
+            "strain": "Hybrid",
+            "price": 45.99,
+            "thc_percentage": 82.5,
+            "description": "Terpene-rich concentrate"
+          },
+          {
+            "id": "C002",
+            "name": "Diamond Sauce",
+            "brand": "PurePressure",
+            "subcategory": "Live Resin",
+            "weight": "300mg",
+            "strain": "Indica",
+            "price": 65.99,
+            "thc_percentage": 89.3,
+            "description": "THCA crystalline with live terpenes"
+          },
+          {
+            "id": "C003",
+            "name": "Morning Dew",
+            "brand": "ResinWorks",
+            "subcategory": "Rosin",
+            "weight": "200mg",
+            "strain": "Sativa",
+            "price": 85.99,
+            "thc_percentage": 76.8,
+            "description": "Solventless pressed rosin"
+          }
+        ]
+      }
+    }
+  }

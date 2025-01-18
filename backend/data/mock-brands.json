@@ -1,0 +1,173 @@
+{
+    "Green Horizon": {
+      "hybrid": [
+        "Sunset Blend",
+        "Twilight Fusion",
+        "Evergreen Glow"
+      ],
+      "sativa": [
+        "Daybreak Rush",
+        "Bright Horizon",
+        "Morning Spark"
+      ],
+      "indica": [
+        "Nightfall Relax",
+        "Evening Calm",
+        "Dreamy Horizon"
+      ]
+    },
+    "Lush Grove": {
+      "hybrid": [
+        "Midnight Fusion",
+        "Forest Whispers",
+        "Balanced Blaze"
+      ],
+      "sativa": [
+        "Sunbeam Blaze",
+        "Morning Mist",
+        "Vibrant Awakening"
+      ],
+      "indica": [
+        "Cedar Rest",
+        "Tranquil Retreat",
+        "Quiet Grove"
+      ]
+    },
+    "Skyline Botanicals": {
+      "hybrid": [
+        "Cloud Walker",
+        "Skyline Blend",
+        "Mountain Magic"
+      ],
+      "sativa": [
+        "Peak Energy",
+        "Sky Rush",
+        "Golden Horizon"
+      ],
+      "indica": [
+        "Sleepy Hollow",
+        "Deep Relax",
+        "Midnight Calm"
+      ]
+    },
+    "Verdant Fields": {
+      "hybrid": [
+        "Forest Dream",
+        "Green Glow",
+        "Meadow Mix"
+      ],
+      "sativa": [
+        "Golden Sky",
+        "Sunshine Burst",
+        "Crisp Breeze"
+      ],
+      "indica": [
+        "Deep Tranquil",
+        "Evening Bliss",
+        "Serene Night"
+      ]
+    },
+    "Golden Bloom": {
+      "hybrid": [
+        "Twilight Mix",
+        "Golden Harmony",
+        "Amber Blend"
+      ],
+      "sativa": [
+        "Summer Breeze",
+        "Sunray Spark",
+        "Citrus Burst"
+      ],
+      "indica": [
+        "Dreamy Essence",
+        "Midnight Relax",
+        "Cozy Sunset"
+      ]
+    },
+    "Evergreen Farms": {
+      "hybrid": [
+        "Northern Lights",
+        "Evergreen Breeze",
+        "Forest Mist"
+      ],
+      "sativa": [
+        "Morning Dew",
+        "Fresh Awakening",
+        "Daylight Rush"
+      ],
+      "indica": [
+        "Silent Bliss",
+        "Calm Drift",
+        "Gentle Night"
+      ]
+    },
+    "Mystic Leaf": {
+      "hybrid": [
+        "Haze Harmony",
+        "Mystic Sunset",
+        "Leafy Bliss"
+      ],
+      "sativa": [
+        "Fresh Dawn",
+        "Radiant Day",
+        "Sunlit Journey"
+      ],
+      "indica": [
+        "Midnight Drift",
+        "Tranquil Dream",
+        "Velvet Night"
+      ]
+    },
+    "Sunset Valley": {
+      "hybrid": [
+        "Misty Valley",
+        "Sunset Breeze",
+        "Twilight Fusion"
+      ],
+      "sativa": [
+        "Vivid Horizon",
+        "Dawn Awakening",
+        "Solar Flare"
+      ],
+      "indica": [
+        "Restful Valley",
+        "Evening Drift",
+        "Relaxing Glow"
+      ]
+    },
+    "Horizon Organics": {
+      "hybrid": [
+        "Golden Glimmer",
+        "Horizon Blend",
+        "Morning Fusion"
+      ],
+      "sativa": [
+        "Early Glow",
+        "Daylight Rush",
+        "Sky Bound"
+      ],
+      "indica": [
+        "Calm Breeze",
+        "Twilight Rest",
+        "Tranquil Horizon"
+      ]
+    },
+    "Cosmic Herb": {
+      "hybrid": [
+        "Lunar Surge",
+        "Cosmic Harmony",
+        "Galaxy Blend"
+      ],
+      "sativa": [
+        "Solar Flare",
+        "Cosmic Burst",
+        "Starry Dawn"
+      ],
+      "indica": [
+        "Starlight Serenade",
+        "Nebula Drift",
+        "Cosmic Relax"
+      ]
+    }
+  }
+  
