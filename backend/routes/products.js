@@ -28,7 +28,7 @@ router.get('/products/:id', async (req, res) => {
         res.status(404).json({ message: 'Product not found' }); // 404 (Not Found) if product is not found
       }
       }
-    } catch (error) {
+     catch (error) {
       res.status(500).json({ message: 'Error fetching product', error }); // 500 Server/database error
     }
   });
