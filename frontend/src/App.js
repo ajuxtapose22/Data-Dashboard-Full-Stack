@@ -1,20 +1,29 @@
-// App.js
+// src/App.js
 import React from 'react';
-import './App.css';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Sidebar from './components/Sidebar';
-// import Profile from './components/Profile';
 import MainContent from './components/MainContent';
+import Dashboard from './pages/Dashboard';
+import CannabisData from './pages/Data';
+import Profile from './pages/Profile';
+import Settings from './pages/Settings';
 
 function App() {
   return (
-    <div className="app-container">
-  
-      <div className="content-wrapper">
-        <Sidebar />
-        <MainContent />
+    <Router>
+      <div className="app-container">
+        <div className="content-wrapper">
+          <Sidebar />
+          <MainContent />
+        </div>
       </div>
-      {/* <Profile /> */}
-    </div>
+      <Routes>
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/cannabis-data" element={<CannabisData />} />
+        <Route path="/profile" element={<Profile />} />
+        <Route path="/settings" element={<Settings />} />
+      </Routes>
+    </Router>
   );
 }
 
