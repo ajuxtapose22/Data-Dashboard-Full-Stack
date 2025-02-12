@@ -1,7 +1,7 @@
 // src/services/api.js
 import axios from 'axios';
 
-const apiUrl = 'http://localhost:3000/api/products'; // Adjust URL as needed
+const apiUrl = 'http://localhost:3001/api/products'; // Adjust URL as needed
 
 export const getProducts = async () => {
   try {

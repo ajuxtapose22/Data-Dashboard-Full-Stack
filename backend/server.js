@@ -5,7 +5,7 @@ const knex = require('knex')(require('./knexfile').development);
 
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 
@@ -20,3 +20,4 @@ app.use('/api', productRoutes);
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
+
