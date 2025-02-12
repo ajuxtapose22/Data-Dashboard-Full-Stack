@@ -21,7 +21,7 @@ function Sidebar() {
       <div className={`sidebar ${isOpen ? 'open' : ''}`}>
         <ul>
           <li><Link to="/dashboard" onClick={() => setIsOpen(false)}><FaChartBar /> Dashboard</Link></li>
-          <li><Link to="/data" onClick={() => setIsOpen(false)}><FaLeaf /> Cannabis Data</Link></li>
+          <li><Link to="/data" onClick={() => setIsOpen(false)}><FaLeaf /> Data </Link></li>
           <li><Link to="/profile" onClick={() => setIsOpen(false)}><FaUser /> Profile</Link></li>
           <li><Link to="/settings" onClick={() => setIsOpen(false)}><FaCog /> Settings</Link></li>
         </ul>
